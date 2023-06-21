@@ -14,7 +14,7 @@ We will divide our work in following categories:<br>
     <ul>
       <li>Loading Raw Data in a seperate notebook</li>
       <li>Creating a pivot table in batches and appending the dataframe for optimisation and analysing what possible error one can     
-          get</li>
+          encounter while running huge batches</li>
       <li>Computing correlation between columns of data</li>
       <li>Cleaning up the final movie suggestions</li>
     </ul>
